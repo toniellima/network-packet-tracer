@@ -1,4 +1,4 @@
-# Projeto de Simulação de Rede de Computadores com Cisco Packet Tracer
+# Projeto de Simulação de Rede de Computadores com Packet Tracer -toniel>
 Este projeto tem como objetivo apresentar uma simulação de rede de computadores, para obtenção de nota na disciplina de Redes de Computadores I do curso de Ciência da Computação do IFMA - Campus Imperatriz, mistrada pelo professor [Paulo Henrique Barbosa](https://github.com/agenteph), através da utilizando o software Cisco Packet Tracer.Com essa atividade iremos nos aprofundar e agragrar conhecimento em redes de cpomputadores.
 
 Nele você irá praticar:
