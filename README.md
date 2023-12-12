@@ -14,5 +14,4 @@ Nele você irá praticar:
 
 E muito mais!
 
-
-https://github.com/toniellima/network-packet-tracer.wiki.git
+(https://github.com/toniellima/network-packet-tracer/wiki)
